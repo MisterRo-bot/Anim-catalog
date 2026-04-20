@@ -1,6 +1,6 @@
 import { Outlet } from 'react-router-dom';
 import { Link } from 'react-router-dom';
-import SearchBar from '../components/searchBar';
+import SearchBar from '../components/SearchBar/searchBar';
 import './layout.css';
 import ShowResults from '../components/ShowResults';
 import { NavLink } from 'react-router-dom';
