@@ -1,7 +1,4 @@
+import './Home.css';
 export default function Home() {
-  return (
-    <div>
-      <h1>Home</h1>
-    </div>
-  );
+  return <div className='min-h-screen bg-[#080616]'></div>;
 }
